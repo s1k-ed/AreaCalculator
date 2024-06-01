@@ -1,5 +1,9 @@
-- [ ] No docs yet :(
-- [ ] No tests yet ':('x2
+Сам сервис - Calculator/AreaCalculatorService.cs
+
+Консольный проект для ручного тестирования - Console/Program.cs
+
+- [ ] Пока что без доков :(
+- [ ] Пока что без тестов ':('x2
 
 И типо SQL:
 ```
